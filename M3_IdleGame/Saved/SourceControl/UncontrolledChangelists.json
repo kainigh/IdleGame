@@ -92,7 +92,16 @@
 				"D:/M3_IdleGame/Content/Untitled.umap",
 				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/abstract-ink-alcohol.uasset",
 				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_Style_Button.uasset",
-				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/WBP_Button.uasset"
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/WBP_Button.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_GameMode.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/HUD_Idle.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/WBP_Viewport.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_Style_Text.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/push_down.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/push_up.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/sit_down.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/sit_up.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_Style_Button_Sit.uasset"
 			]
 		}
 	]
