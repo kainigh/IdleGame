@@ -101,7 +101,10 @@
 				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/push_up.uasset",
 				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/sit_down.uasset",
 				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/sit_up.uasset",
-				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_Style_Button_Sit.uasset"
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_Style_Button_Sit.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/BP_Style_Button_Punch.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/punch_idle.uasset",
+				"C:/Users/kai.nigh/Documents/GitHub/IdleGame/M3_IdleGame/Content/_GameManager/punch_through.uasset"
 			]
 		}
 	]
